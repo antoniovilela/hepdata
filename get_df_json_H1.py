@@ -1,6 +1,6 @@
 import pandas as pd
 
-def get_df_json( json_data, var_name ):
+def get_df_json_H1( json_data, var_name ):
 
     Xvars_ = (0,1,2)
     varname_ = var_name
